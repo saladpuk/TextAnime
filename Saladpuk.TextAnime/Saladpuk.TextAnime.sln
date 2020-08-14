@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Saladpuk.TextAnime", "Saladpuk.TextAnime\Saladpuk.TextAnime.csproj", "{88D221E1-4F1B-43DE-B23B-2504E05AA193}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88D221E1-4F1B-43DE-B23B-2504E05AA193}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88D221E1-4F1B-43DE-B23B-2504E05AA193}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88D221E1-4F1B-43DE-B23B-2504E05AA193}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88D221E1-4F1B-43DE-B23B-2504E05AA193}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A575AC93-192D-4DEE-90DF-EF7884B8EE65}
+	EndGlobalSection
+EndGlobal
