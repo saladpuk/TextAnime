@@ -65,7 +65,7 @@ namespace Saladpuk.TextAnime
             return this;
         }
 
-        public TextAnimeBuilder BounceRightEdge()
+        public TextAnimeBuilder BounceEdge()
         {
             const int maxCharPerLine = 83;
             var maximumPaddingToEdge = maxCharPerLine - displayText.Length;
@@ -144,8 +144,7 @@ namespace Saladpuk.TextAnime
             }
         }
 
-        public string Build()
-            => builder.ToString();
+        public string Build() => builder.ToString();
 
         private void moveLeft(int shiftingTimes)
         {
